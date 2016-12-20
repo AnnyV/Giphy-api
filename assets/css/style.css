@@ -1,0 +1,23 @@
+.btn-group-lg>.btn, .btn-lg {
+	margin: 10px;
+}
+
+label {
+   
+    margin-bottom: 17px;
+    margin-top: 21px;
+}
+
+img {
+    
+    margin: 15px;
+}
+
+.item {
+	float: left;
+
+}
+
+	body {
+    background-image: url("../images/kindajean_@2X.png");
+}
